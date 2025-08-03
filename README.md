@@ -17,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/swarajghalme/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0564-find-the-closest-palindrome](https://github.com/swarajghalme/LeetCode-DSA/tree/master/0564-find-the-closest-palindrome) |
 <!---LeetCode Topics End-->
